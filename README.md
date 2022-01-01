@@ -5,7 +5,7 @@ Dont recode it
 add you username in usern.txt file
 add your password in passsw.txt file remove everything present in the txt file 
 
-==========================================================INFO=================================================================
+============================INFO==============================
 
 ## Namaste 🙏🏻
 
